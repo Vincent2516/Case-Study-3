@@ -1,0 +1,12 @@
+[
+    {
+        "student_id": 101,
+        "assignment_id": 1,
+        "grade": "A"
+    },
+    {
+        "student_id": 101,
+        "assignment_id": 2,
+        "grade": "B+"
+    }
+]

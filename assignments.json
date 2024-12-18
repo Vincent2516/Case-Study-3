@@ -1,0 +1,14 @@
+[
+    {
+        "assignment_id": 1,
+        "title": "Illustration Assignment",
+        "course_id": 901,
+        "due_date": "2024-12-20"
+    },
+    {
+        "assignment_id": 2,
+        "title": "Data Structures Quiz",
+        "course_id": 903,
+        "due_date": "2024-12-22"
+    }
+]

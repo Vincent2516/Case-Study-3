@@ -1,0 +1,14 @@
+[
+    {
+        "course_id": 901,
+        "timing": "Monday, Wednesday - 10:00 AM to 12:00 PM"
+    },
+    {
+        "course_id": 902,
+        "timing": "Tuesday, Thursday - 2:00 PM to 4:00 PM"
+    },
+    {
+        "course_id": 903,
+        "timing": "Friday - 9:00 PM to 11:00 AM"
+    }
+]

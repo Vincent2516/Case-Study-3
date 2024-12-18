@@ -1,0 +1,41 @@
+[
+    {
+        "id": 101,
+        "role": "student",
+        "username": "lyca_jay",
+        "password": "stud123",
+        "name": "Lyca Jay",
+        "email": "lyca@sample.com"
+    },
+    {
+        "id": 201,
+        "role": "instructor",
+        "username": "prof_A",
+        "password": "prof123",
+        "name": "Prof A",
+        "email": "a@sample.com"
+    },
+    {
+        "id": 202,
+        "role": "instructor",
+        "username": "prof_b",
+        "password": "prof123",
+        "name": "Prof B",
+        "email": "b@sample.com"
+    },
+    {
+        "id": 301,
+        "role": "admin",
+        "username": "admin_Roi",
+        "password": "admin123",
+        "name": "Roi",
+        "email": "roi@sample.com"
+    },
+    {
+        "id": 5,
+        "role": "student",
+        "name": "anna",
+        "email": "anna@sample.com",
+        "password": "123"
+    }
+]

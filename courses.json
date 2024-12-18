@@ -1,0 +1,20 @@
+[
+    {
+        "course_id": 901,
+        "title": "Illustration",
+        "description": "Creating visual images to communicate ideas or stories.",
+        "instructor_id": 201
+    },
+    {
+        "course_id": 902,
+        "title": "Animation",
+        "description": "Bringing drawings or models to life through movement.",
+        "instructor_id": 201
+    },
+    {
+        "course_id": 903,
+        "title": "Data Structures",
+        "description": "Learn about data structures in computer science.",
+        "instructor_id": 202
+    }
+]
